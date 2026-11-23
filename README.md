@@ -152,3 +152,5 @@ Full schema specifications and a working Arduino C++ skeleton are documented in 
   - Alcohol PPM slider (demonstrates 200 PPM DUI lockout).
   - Test Crash Impact button (initiates 10-second pulsating SOS countdown with cancellation and dispatch options).
 - **Exportable Safety Reports:** Export ride logs and safety incident audits as PDF/CSV.
+#   S m a r t H e l m e t  
+ 
